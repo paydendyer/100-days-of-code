@@ -1,30 +1,94 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 29, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed Intro to JavaScript & Variables Codeacademy.com
+<!--
+**Thoughts:** It was pretty easy to complete the Bootstrap lessons and projects.
+ **Link to work:** [Calculator App](http://www.example.com)* --!>
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: April 1, 2020 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
+**Today's Progress**: Completed Dog Years project and Kelvin weather on Codeacademy.com
+<!--
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: [Calculator App](http://www.example.com) --!>
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
+### Day 3: April 4, 2020
 
-### Day 1: June 27, Monday
+**Today's Progress**: I completed Conditional statements and Functions modules on Codeacademy.com I also completed 'Race Day' Project and 'Magic Eight Ball'.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
+<!--
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --!>
+
+### Day 4: April 7, 2020
+
+**Today's Progress**: I completed the Bootstrap course on Codeacademy.com and completed 2 projects: 'Adhoc' and 'Recreate a painting using Bootstrap's grid'.
+
+**Thoughts**: I thought learning Bootstrap was pretty easy since I had learned some of it before.
+
+
+### Day 5: April 8, 2020
+
+**Today's Progress**: I completed the functions module on Codeacademy.com and a lesson on scope. I also completed 3 projects: 'Sleep Debt Calculator' and 'Rock, Paper, Scissors' and 'Form a story'
+
+
+### Day 6: April 9, 2020
+
+**Today's Progress**: I worked on freecodecamp.com beginning with HTML5.
+
+
+### Day 7: April 10, 2020
+
+**Today's Progress**: I worked on freecodecamp.com Basic CSS.
+
+
+### Day 8: April 13, 2020
+
+**Today's Progress**: I worked on freecodecamp.com Applied Visual Design.
+
+
+### Day 9: April 14, 2020
+
+**Today's Progress**: I worked on freecodecamp.com Applied Accessibility and Responsive Web Design.
+
+
+### Day 10: April 15, 2020
+
+**Today's Progress**: I worked on freecodecamp.com CSS Flexbox and Grid.
+
+
+### Day 11: April 17, 2020
+
+**Today's Progress**: I worked on freecodecamp.com and completed all 5 of the Projects and earned my Responsive Web Design Certification. I also completed 'Training Days' project on Codeacademy.com and completed a module on Scope.
+
+
+### Day 12: April 20, 2020
+
+**Today's Progress**: I worked on freecodecamp.com starting with JavaScript.
+
+
+### Day 13: April 21, 2020
+
+**Today's Progress**: I completed the Arrays module on Codeacademy.com and 'Secret Message' project.
+
+
+### Day 14: April 22, 2020
+
+**Today's Progress**: I worked on freecodecamp.com and practiced more JavaScript.
+
+
+### Day 15: April 23, 2020
+
+**Today's Progress**: I worked on freecodecamp.com and practiced more JavaScript.
+
+
+### Day 16: April 24, 2020
+
+**Today's Progress**: I worked on freecodecamp.com and completed all of the challenges in Basic JavaScript.
+
+**Thoughts**: I think I am starting to get a better understanding of JavaScript, but I am still struggling with the math and formula parts.
